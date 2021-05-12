@@ -1,2 +1,5 @@
-empty ({})
-$ git push heroku master
+{
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
